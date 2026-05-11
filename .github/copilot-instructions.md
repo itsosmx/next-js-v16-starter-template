@@ -4,14 +4,7 @@ applyTo: "**/*.ts, **/*.tsx"
 
 ## Project Overview
 
-Usercaring is a product feedback management tool designed to help businesses collect, analyze, and act on customer feedback effectively. The platform provides a centralized hub for managing customer interactions, gathering insights, and improving overall customer satisfaction.
-
-It functions as an all-in-one hub that integrates directly into web applications, allowing businesses to gather various types of input, including:
-
-- **Visual Feedback**: Users can capture screenshots directly from the interface, which are often accompanied by metadata to help developers understand the specific context of a bug or design issue.
-- **Centralized Management**: The platform provides dashboards to organize and prioritize feedback, allowing product managers and developers to identify trends, analyze root causes (often using AI-assisted tools), and align on product improvements.
-
-Ultimately, it is used by product teams to bridge the gap between user needs and development priorities by centralizing evidence-based feedback.
+[Project Overview]
 
 ## Instructions for Contributing to the Project
 
