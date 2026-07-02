@@ -1,5 +1,9 @@
 {
   "cSpell.words": [
     "Usercaring"
+  ],
+  "i18n-ally.localesPaths": [
+    "locales",
+    "src/i18n"
   ]
 }
